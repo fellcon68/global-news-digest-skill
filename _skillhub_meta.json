@@ -1,0 +1,12 @@
+{
+  "slug": "global-news-digest",
+  "name": "每日全球热点新闻简要",
+  "version": "1.0.0",
+  "installedAt": 1792935846325,
+  "source": "skillhub",
+  "namespace": "user_15bbfef5",
+  "canonicalName": "@user_15bbfef5/global-news-digest",
+  "iconSource": "https://skillhub-1388575217.cos.accelerate.myqcloud.com/skill-icons/uploads/802479/3f7dddc1027d43dba45121d8a341e61a.png",
+  "iconLocalPath": "C:\\Users\\Administrator\\.workbuddy\\skills\\global-news-digest__skillhub\\_icon.png",
+  "iconDownloadedFrom": "https://skillhub-1388575217.cos.accelerate.myqcloud.com/skill-icons/uploads/802479/3f7dddc1027d43dba45121d8a341e61a.png"
+}
